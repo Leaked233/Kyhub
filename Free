@@ -1,0 +1,7 @@
+local DrRayLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/DrRay-UI-Library/main/DrRay.lua"))()
+local window = DrRayLibrary:Load("KYSHUB|V2", "Default")
+
+local tab = DrRayLibrary.newTab("Aimbot", "ImageIdHere")
+tab.newButton("Aimbot", "There Is No Menu!", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YcIayAlt/Rooftop-2/main/Bruno%20mars"))()
+end)
